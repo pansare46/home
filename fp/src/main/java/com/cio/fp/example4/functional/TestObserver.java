@@ -1,4 +1,4 @@
-package ct.fp.example4.functional;
+package com.cio.fp.example4.functional;
 
 public class TestObserver {
 

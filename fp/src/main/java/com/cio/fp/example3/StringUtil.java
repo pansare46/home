@@ -1,4 +1,4 @@
-package ct.fp.example3;
+package com.cio.fp.example3;
 
 class StringUtil {
 

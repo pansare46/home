@@ -1,4 +1,4 @@
-package ct.fp.example5;
+package com.cio.fp.example5;
 
 public class FileWriterTest {
 

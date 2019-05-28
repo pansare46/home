@@ -1,4 +1,4 @@
-package ct.fp.example5;
+package com.cio.fp.example5;
 
 @FunctionalInterface
 public interface UseInstance<T, X extends Throwable>  {

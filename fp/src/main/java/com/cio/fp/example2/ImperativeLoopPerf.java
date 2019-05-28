@@ -1,4 +1,4 @@
-package ct.fp.example2;
+package com.cio.fp.example2;
 
 import org.openjdk.jmh.annotations.*;
 

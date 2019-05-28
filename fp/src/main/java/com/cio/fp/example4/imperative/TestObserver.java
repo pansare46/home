@@ -1,4 +1,4 @@
-package ct.fp.example4.imperative;
+package com.cio.fp.example4.imperative;
 
 
 class MyObserver implements Observer {
