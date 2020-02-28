@@ -1,0 +1,27 @@
+<?xml version ="1.0" encoding ="utf-8"?><!-- Learn More about how to use 
+	App Actions: https://developer.android.com/guide/actions/index.html -->
+<contacts>
+	<contact hasReference="true">
+		<name>vipul</name>
+		<number>+919403378437</number>
+	</contact>
+	<contact hasReference="true">
+		<number>+919881787483</number>
+		<name>Yogesh</name>
+
+		<number>+919881787483</number>
+	</contact>
+	<contact hasReference="true">
+		<name>tejas</name>
+		<number>+918999362850</number>
+	</contact>
+	<contact hasReference="true">
+		<name>kavita</name>
+		<number>+917020227193</number>
+	</contact>
+	<contact hasReference="true">
+		<name>vipul2</name>
+		<number>7020983236</number>
+	</contact>
+
+</contacts>
