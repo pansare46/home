@@ -19,6 +19,8 @@ public class PowerMockPrivateMethodTest {
         PowerMockito.doReturn(expectation).when(mock,"printMessage",message);
         //verify
         //String actual=mock.printMessage(message);
+        String actual=mock.privateCall(message);
+        Assert.assertEquals(expectation,actual);
 
 
 
