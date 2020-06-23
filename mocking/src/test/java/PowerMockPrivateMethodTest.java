@@ -1,4 +1,5 @@
 import org.ad.demo.privatecontent.ClassWithPrivateMethods;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.powermock.api.mockito.PowerMockito;
